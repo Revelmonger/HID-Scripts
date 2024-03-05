@@ -18,13 +18,13 @@ time.sleep(5)
 while True:
 	led.value = True
 
-	mouse.move(x=50)
+	mouse.move(x=1)
 	time.sleep(0.5)
-	mouse.move(y=50)
-	time.sleep(0.5)
-
-	mouse.move(x=-50)
+	mouse.move(y=1)
 	time.sleep(0.5)
 
-	mouse.move(y=-50)
+	mouse.move(x=-1)
+	time.sleep(0.5)
+
+	mouse.move(y=-1)
 	time.sleep(0.5)
