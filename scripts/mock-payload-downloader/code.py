@@ -25,7 +25,7 @@ keyboard.send(Keycode.WINDOWS, Keycode.R)
 
 
 time.sleep(0.5)
-layout.write("https://tinyurl.com/bdzfm3n2\n")
+layout.write("https://tinyurl.com/3kbb9mpt\n")
 
 
 time.sleep(1)
