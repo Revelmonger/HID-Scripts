@@ -1,2 +1,2 @@
 # hid-ducky
-A collection of python scripts to be ran on a hid device.
+A collection of micropython scripts to be ran with the HID library.

@@ -11,15 +11,18 @@ mouse = Mouse(usb_hid.devices)
 
 led = digitalio.DigitalInOut(board.GP25)
 led.direction = digitalio.Direction.OUTPUT
-
 led.value = False
-time.sleep(5)
 
+# 10-second delay
+time.sleep(10)
+
+# Moves cursor in a square
 while True:
 	led.value = True
 
 	mouse.move(x=1)
 	time.sleep(0.5)
+
 	mouse.move(y=1)
 	time.sleep(0.5)
 
