@@ -1,5 +1,4 @@
 # A Short PowerPoint Presentation
-A slide by slide demonstration of the micropython's HID Library.
 ![](https://github.com/Revelmonger/hid-ducky/blob/main/presentation/slides/USB-HID%20Device-1.png)
 ![](https://github.com/Revelmonger/hid-ducky/blob/main/presentation/slides/USB-HID%20Device-2.png)
 ![](https://github.com/Revelmonger/hid-ducky/blob/main/presentation/slides/USB-HID%20Device-3.png)
