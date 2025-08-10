@@ -1,5 +1,5 @@
-# HID-Scripts
-A collection of micropython scripts and accessories to be ran with the HID library.
+# Welcome to HID-Scripts
+This is a collection of micropython scripts and accessories to be ran with the Adafruit HID library. 
 
 # Getting Started
 1. Head on over to the [presentations](https://github.com/Revelmonger/hid-ducky/tree/main/presentation) folder to learn more about HID devices and how to create them.
